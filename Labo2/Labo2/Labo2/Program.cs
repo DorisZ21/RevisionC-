@@ -33,12 +33,6 @@ namespace labo2
             Console.WriteLine(monUser2);
             
             TestValidLogin();
-            
-            monUser1.SetLogin("FaRT");
-            Console.WriteLine(monUser1.GetLogin());
-            // Ok le setter fonctionne bien
-            
-            
         }
     }
 }

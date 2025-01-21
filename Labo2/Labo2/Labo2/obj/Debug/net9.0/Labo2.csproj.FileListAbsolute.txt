@@ -1,0 +1,15 @@
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\bin\Debug\net9.0\Labo2.exe
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\bin\Debug\net9.0\Labo2.deps.json
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\bin\Debug\net9.0\Labo2.runtimeconfig.json
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\bin\Debug\net9.0\Labo2.dll
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\bin\Debug\net9.0\Labo2.pdb
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.AssemblyInfoInputs.cache
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.AssemblyInfo.cs
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.sourcelink.json
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.dll
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\refint\Labo2.dll
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.pdb
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\Labo2.genruntimeconfig.cache
+C:\Users\Doria\Documents\RevisionC-\Labo2\Labo2\Labo2\obj\Debug\net9.0\ref\Labo2.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo1\\Labo1\\Labo1\\Labo1.csproj",
-      "projectName": "Labo1",
-      "projectPath": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo1\\Labo1\\Labo1\\Labo1.csproj",
+      "projectUniqueName": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo2\\Labo2\\Labo2\\Labo2.csproj",
+      "projectName": "Labo2",
+      "projectPath": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo2\\Labo2\\Labo2\\Labo2.csproj",
       "packagesPath": "C:\\Users\\Doria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo1\\Labo1\\Labo1\\obj\\",
+      "outputPath": "C:\\Users\\Doria\\Documents\\RevisionC-\\Labo2\\Labo2\\Labo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

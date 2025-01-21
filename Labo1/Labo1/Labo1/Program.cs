@@ -6,7 +6,8 @@ namespace labo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world !");
+            Player player1 = new Player("Dorian", "Michaux", new DateTime(2004, 1, 21));
+            Console.WriteLine(player1);
         }
     }
 }
